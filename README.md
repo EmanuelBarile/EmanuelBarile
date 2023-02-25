@@ -16,7 +16,42 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="55" height="55"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/> 
+  </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="55" height="55"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> 
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7G7PFdAbLe7yTXqGGpRarj6pV6s7LracaKw&usqp=CAU" alt="visual-studio" width="55" height="55"/>
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/JWT_LOGO.png" alt="jwt" width="55" height="55"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/linq/" target="_blank" rel="noreferrer">
+    <img src="https://www.arvixe.com/images/landing_pages/linq_hosting.png" alt="linq" width="55" height="55"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/7658037?s=280&v=4" alt="swagger" width="55" height="55"/>
+
+
+
 
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
