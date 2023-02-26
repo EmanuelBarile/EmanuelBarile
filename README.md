@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [MoonBank (No country project)](https://github.com/No-Country/c9-02-t-csharp-react/tree/main)
+- 🔭 I’m currently working on [MoonBank (No country´s project)](https://github.com/No-Country/c9-02-t-csharp-react/tree/main)
 
 - 🌱 I’m currently learning **JSON Web Token (OpenBootcamp) and Design Patterns (Head First Design Patterns)**
 
