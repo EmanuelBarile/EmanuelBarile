@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MoonBank (No country´s project)](https://github.com/No-Country/c9-02-t-csharp-react/tree/main)
 
-- 🌱 I’m currently learning **JSON Web Token (OpenBootcamp) and Design Patterns (Head First Design Patterns)**
+- 🌱 I’m currently learning **JSON Web Token and Middlewares (OpenBootcamp) and Design Patterns (Head First Design Patterns)**
 
 - 📫 How to reach me **emanuelbarile06@gmail.com**
 
@@ -59,7 +59,7 @@
 <h2 align="center">GitHub Stats:</h3>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelbarile&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="emanuelbarile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelbarile&layout=compact&hide=javascript&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="emanuelbarile" />
 
  <img src="https://github-readme-stats.vercel.app/api?username=emanuelbarile&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="emanuelbarile" />
 
